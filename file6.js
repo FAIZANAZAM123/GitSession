@@ -1,3 +1,4 @@
 function functionName(){
- // do something
+
+    console.log("In the second brach")
 };
